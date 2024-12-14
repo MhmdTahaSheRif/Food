@@ -16,4 +16,4 @@ Experience the sleek design and responsiveness of HealthFood, a beautifully anim
 ## ✨ Live Demo
 
 Explore the interactive features and dynamic elements of HealthFood by visiting the hosted page on Github:
-[HealthFood Page](https://mhmdtahasherif.github.io/HealthFood/)
+[HealthFood Page](https://mhmdtahasherif.github.io/Food/)
