@@ -8,7 +8,6 @@ Experience the sleek design and responsiveness of HealthFood, a beautifully anim
 
 - HTML 
 - Pure CSS
-- GSAP for captivating animations
 
 
 
